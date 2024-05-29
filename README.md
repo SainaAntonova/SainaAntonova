@@ -6,7 +6,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/saiyyna-antonova-84356490/">
+  <a href="https://www.linkedin.com/in/saiyynaantonova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:mossyhead0206@gmail.com">
